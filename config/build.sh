@@ -1,0 +1,1 @@
+rollup --config=config/rollup.config.js
